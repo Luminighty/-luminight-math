@@ -1,6 +1,6 @@
 {
   "name": "@luminight/math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a library of common math structures amongs my different projects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
